@@ -12,5 +12,5 @@
 </p>
 <p>![Graph comparing Height vs Weight to determine if someone is a healthy weight.](BMI_Formula.png)</p>
 <p> The BMI is calculated by dividing a person's weight (in kg) by the square of their height (in m):<br>
-![BMI = weight(kg) over height squared](BMI_Graph.png)</p>
+![BMI = weight(kg) over height squared](https://github.com/pcgofpa/BMI_2.0/blob/main/BMI_Graph.png)</p>
 <p>Warning you should round the result to the nearest whole number.<br> The interpretation message needs to include the words in the list from the interpretations above.<br> e.g. underweight, normal weight, overweight, obese, clinically obese.</p>
